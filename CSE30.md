@@ -1,5 +1,5 @@
 # cse30
-
+* [Class Website](https://sites.google.com/ucsd.edu/cse30spring22)
 * [Syllubus](https://drive.google.com/file/d/1d0iW3F2Wt-uk8dvLns3DQvpCF7ayColz/view)
 * [Lecture Slides](https://cseweb.ucsd.edu/classes/sp22/cse30-a/slides/)
 * [Discussion Slides](https://canvas.ucsd.edu/courses/35552)
@@ -30,20 +30,3 @@
 [Introduction to Computer Organization: Arm Assembly](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 
 [Dive Into Systems](https://diveintosystems.org/book/)
-
-* 
-
-## 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
