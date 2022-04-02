@@ -1,6 +1,6 @@
 * [CSE30](./CSE30.md)
 * [CSE100](./CSE100.md)
-* [cse105](./CSE105.md)
+* [CSE105](./CSE105.md)
 * [CSE140](./CSE140.md)
-* [cse140L](./CSE140l.md)
+* [CSE140L](./CSE140l.md)
 * [Math102](./MATH102.md)
