@@ -3,9 +3,11 @@
 * [Syllubus](https://drive.google.com/file/d/1d0iW3F2Wt-uk8dvLns3DQvpCF7ayColz/view)
 * [Lecture Slides](https://cseweb.ucsd.edu/classes/sp22/cse30-a/slides/)
 * [Discussion Slides](https://canvas.ucsd.edu/courses/35552)
-* Assignment
+* Homework
+
 [Gradescope](https://canvas.ucsd.edu/courses/35552/external_tools/80)
 * Documents
+
  [C Style Guidlines](https://drive.google.com/file/d/1CaF16GJJg0kWi8NJnJ0aXSeG4zSMss50/view)
  [C Right-Left Rule](https://drive.google.com/file/d/1sK57yjYXs5Aj8srZwRd_hNeGpiKcKfQB/view)
  [GDB Reference Card](https://drive.google.com/file/d/1PCJRxfgQuIDVdJLHNlVR4U59PqJSn3RO/view)
