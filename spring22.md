@@ -1,7 +1,7 @@
 # cse30
 
 ## Syllubus
-[](https://drive.google.com/file/d/1d0iW3F2Wt-uk8dvLns3DQvpCF7ayColz/view)
+[Syllubus](https://drive.google.com/file/d/1d0iW3F2Wt-uk8dvLns3DQvpCF7ayColz/view)
 
 ## Textbook Links
 
