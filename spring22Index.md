@@ -1,0 +1,6 @@
+* [CSE30](http://a.com)
+* [CSE100](http://a.com)
+* [cse105](http://a.com)
+* [CSE140](http://a.com)
+* [cse140L](http://a.com)
+* [Math102](http://a.com)
