@@ -1,2 +1,2 @@
 * [cheatsheet](https://commonmark.org/help/)
-* [Spring22](./spring22Index.md)
+* [Fall22](./fall22Index.md)
